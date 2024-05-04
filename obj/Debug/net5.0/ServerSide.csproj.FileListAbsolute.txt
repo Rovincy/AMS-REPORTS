@@ -1,0 +1,811 @@
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\appsettings.json
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.exe
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Data.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.DataVisualization.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Office.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Drawing.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Export.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v21.2.Core.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.Web.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v21.2.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+F:\ASpNetCoreReactDevExpress\ServerSide\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.json
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.exe
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Data.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Office.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v20.1.Web.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v20.1.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Pack.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+C:\Users\SIP\source\repos\ZEE\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.exe
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Data.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Office.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.RoomHistoryReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.SettlementDetailsReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.GenerateResource.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Pack.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.exe
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Data.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Office.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v21.2.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ArrivalDepartureStayOverReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.DailyRevenuSummaryReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestLedgerReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestOutstandingReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.RoomHistoryReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.SettlementDetailsReport.resources
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.GenerateResource.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Pack.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+C:\Users\SipConsult\Desktop\ROVINCY PROJECTS\SipHotel\FromFabrice\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.json
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.exe
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Data.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Office.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v21.2.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ArrivalDepartureStayOverReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.AuditTrailReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.CurrencyReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.DailyRevenuSummaryReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestLedgerReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestOutstandingReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.MonthlyCheckInReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderAccountStatementReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ReceiptReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.RoomHistoryReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.SettlementDetailsReport.resources
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.GenerateResource.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Pack.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Jojo\Desktop\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.json
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.exe
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Data.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataVisualization.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Office.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Export.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v21.2.Core.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.Web.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v21.2.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySql.Data.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySqlConnector.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Text.Json.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ZstdSharp.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ArrivalDepartureStayOverReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.AuditTrailReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.CurrencyReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.DailyRevenuSummaryReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestLedgerReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestOutstandingReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.MonthlyCheckInReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.PaymentAdviceReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderAccountStatementReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ReceiptReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.RoomHistoryReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.SettlementDetailsReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.GenerateResource.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Pack.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.build.ServerSide.props
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.dll
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderBalancesReport.resources
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderTransactionsReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.AssemblyReference.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ArrivalDepartureStayOverReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.AuditTrailReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.CurrencyReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.DailyRevenuSummaryReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestLedgerReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.GuestOutstandingReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.MonthlyCheckInReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.PaymentAdviceReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderAccountStatementReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderTransactionsReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ReceiptReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.RoomHistoryReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.SettlementDetailsReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.GenerateResource.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.dll
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\refint\ServerSide.dll
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.pdb
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.Development.json
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\appsettings.json
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.exe
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.deps.json
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.json
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.runtimeconfig.dev.json
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.pdb
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ServerSide.Views.pdb
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Common.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Core.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Reporting.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.AspNetCore.Resources.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraCharts.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Charts.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.CodeParser.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Data.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataAccess.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.DataVisualization.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraGauges.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Office.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Pdf.v21.2.Drawing.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.PivotGrid.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Printing.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.RichEdit.v21.2.Export.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Sparkline.v21.2.Core.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.XtraReports.v21.2.Web.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\DevExpress.Xpo.v21.2.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.CodeDom.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Http.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.ServiceModel.Security.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Threading.AccessControl.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.ProviderBalancesReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfoInputs.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.AssemblyInfo.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CoreCompileInputs.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorAssemblyInfo.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.input.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.TagHelpers.output.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorCoreGenerate.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.RazorTargetAssemblyInfo.cs
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Views.pdb
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\scopedcss\bundle\ServerSide.styles.css
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Manifest.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\ServerSide.StaticWebAssets.Pack.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.build.ServerSide.props
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.csproj.CopyComplete
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.genruntimeconfig.cache
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ref\ServerSide.dll
+E:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.CompanyPremiumReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.CompanyPremiumReport.resources
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\MySql.Data.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\System.Text.Json.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\ZstdSharp.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+F:\Apex\FromFabrice\ServerSide\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.PrintReport.resources
+F:\Apex\FromFabrice\ServerSide\obj\Debug\net5.0\ServerSide.Reports.CRMReport.resources
